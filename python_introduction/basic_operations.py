@@ -1,6 +1,6 @@
 # Assign specific values to two variables, number1 and number2.
-number1 = 15
-number2 = 25
+number1 = 10
+number2 = 5
 
 # Perform addition, subtraction, and multiplication on these numbers.
 number1 + number2
