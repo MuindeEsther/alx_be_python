@@ -6,5 +6,5 @@ time = 3         # The time the money is invested for (in years)
 
 # Calculate the simple interest using the formula:
 # Simple Interest = (Principal * Rate * Time) / 100
-simple_interest = (principal * rate * time) / 100
+simple_interest = (principal * rate * time)
 print("The simple interest is:", simple_interest)
